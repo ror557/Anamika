@@ -1,28 +1,17 @@
-== README
+## Rails girls 2016
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+---
 
-Things you may want to cover:
+#### Ruby version 2.3.0
+#### Rails version5.0.0.1
 
-* Ruby version
+### L.A. adventure App
 
-* System dependencies
+A bucket list for Ls Angeles. This is of ll the thing I'd like to to tdo in case I move out.
 
-* Configuration
+*Made by* *Stephanie*
+On 10-22-16
 
-* Database creation
+My coach: Wai-Yin
+My pair :Anamika Gupta
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
